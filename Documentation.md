@@ -9,7 +9,10 @@
     * No implicit type cast
 ## Instance reference name in data type (class)
   * Java: Uses “this” to a reference to the current object. It is used to refer to any member of the current object from      within an instance method or a constructor.
-  
+  ![Example:](Java-thisExample.png)
+  * Swift: Uses “self” to refer to an instance variable that is shadowed by a parameter name. It is a reference to the current class.
+  ![Example:](Swift-selfExample.png)
+
 
 
 
