@@ -24,4 +24,4 @@
 * [Listeners](EventHandlers.md)
 * [Singleton](Singleton.md)
 * [Procedural/Functional](Documentation.md)
-* [Multithreading(multithreading.md)
+* [Multithreading](multithreading.md)
