@@ -13,9 +13,13 @@ public class Dog {
 Swift: Swift classes are the general purpose building blocks of your code. Similar to Java, they are used to add functionality to your code. Compared to Java's new keyword for instantiating objects, swift uses init().
 
 class Dog { 
+
 	var breed: String 
+	
 	var age: Int 
+	
 	var color: String 
+	
 }
 
 #### Creating new instances.
