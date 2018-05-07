@@ -6,11 +6,11 @@ Java: Classes can be defined as a template that can describe an objects behavior
 
 public class Dog {
 
-   String breed;   
-   
-   int age;   
-
-   String color;
+	String breed;
+	
+	int age;
+	
+	String color;
 
 }
 
@@ -35,6 +35,7 @@ Dog dog = new Dog(breed, age, color);
 Swift: As stated above, new instances in Swift are created with the init() keyword
 
 //initalizing dog for the class written above
+
 init() {
 
 	breed = lab
